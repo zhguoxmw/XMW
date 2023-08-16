@@ -3,3 +3,6 @@
 
 # APP 网站地址
 https://yaokb.com/app.html
+
+# PC 网站地址
+http://xmw01.yaokb.xyz
