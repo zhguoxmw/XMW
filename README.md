@@ -6,3 +6,8 @@ https://yaokb.com/app.html
 
 # PC 网站地址
 http://xmw01.yaokb.xyz
+http://xmw02.yaokb.xyz
+http://xmw03.yaokb.xyz
+
+# 联系我们 (广告合作，代理加盟，购买源码)
+zhguoxmw@hotmail.com
